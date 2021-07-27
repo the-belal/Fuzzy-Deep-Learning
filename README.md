@@ -1,4 +1,4 @@
-" Fuzzy-Deep-Learning-for-Image-Classification" was my university last year thesis project. It was a joint project wherw Saikat Sharma was my partner completing this research supervised by Md. Mosaddik Hasan Sir (Associate Professor, Dept. of CSE, MBSTU).
+" Fuzzy-Deep-Learning-for-Image-Classification" was my university last year thesis project. It was a joint project where Saikat Sharma was my partner completing this research supervised by Md. Mosaddik Hasan Sir (Associate Professor, Dept. of CSE, MBSTU).
 
 About the thesis:
 
